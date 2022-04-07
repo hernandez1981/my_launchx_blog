@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Catalina Hernández</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://hernandez1981.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hernandez1981.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://hernandez1981.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hernandez1981.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! Te quiero contar todo lo que he aprendido hasta este momento desde que encontre LaunchX de Innovación Virtual.
+ Python. Jupyter Notebooks. Lógica de programación. Requisitos de un sistema Html. CSS. JS. Framework VUE. FrameWork Angular. GitHub. Git. Línea de comandos. Node Js.  Algunos de estas tecnologías tenía algo de conocimiento, otros no, la verdad estas sesiones han sido super buenos porque hoy en la actualidad un desarrollador de software debe estar actualizado en las nuevas tecnologías que van surgiendo día a día.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollad@r de Software</title>
       <link>https://hernandez1981.github.io/my_launchx_blog/posts/intro/</link>
