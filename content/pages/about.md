@@ -9,13 +9,10 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Catalina Hernández, Ing. en Sistemas Computacionales y actualmente aprendiz del Launch X de Innovacción Virtual.
+> De nuevo retomando la programación después de muchos años.
+> Realmente me siento satisfecha y contenta de aprender a realizar mi primer Blog Personal con la ayuda de mi MC. Carlo Gilmar.
+> Espero seguir aprendiendo muchas cosas y seguir actualizando mi blog.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Launch X de Innovacción Virtual** me ha motivado a seguir adelante y seguir explorando todo lo que puedo aprender y en un futuro ser capaz de construir y ser un buen desarrollador de software claro eso dependerá de la práctica, dedicación y esfuerzo diario.
 
