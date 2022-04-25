@@ -6,7 +6,7 @@ description: 'Sistema Operativo, Editor de texto y Control de versiones.'
 
 Uno de los principales problemas al que se enfrenta un principiante en desarrollador de software cuando está iniciando, 
 es no conocer cuáles son las herramientas que son indispensables para el desarrollo de los proyectos y el papel que juegan 
-en nuestro entorno de trabajo como desarrollador de software.Al no darle importancia la utilización de las herramientas conlleva a que nuestros proyectos no se realicen a tiempo y seamos menos productivos.
+en nuestro entorno de trabajo como desarrollador de software. Al no darle importancia la utilización de las herramientas conlleva a que nuestros proyectos no se realicen a tiempo y seamos menos productivos.
 
 Pero ¿Cuáles son estas herramientas?
 
@@ -25,9 +25,9 @@ en el desempeño y la eficacia de un desarrollador en realizar sus tareas, sin i
 **Control de versiones**
 
 Hablar de control de versiones nos referimos a como nosotros podemos llevar un control de versiones de nuestros proyectos que realicemos, 
-para el entorno de trabajo del desarrollador es primordial que sepa utilizar algún manejador de versiones, se recomienda aprender Git.
+para el entorno de trabajo del desarrollador es primordial que sepa utilizar algún manejador de versiones, se recomienda aprender **Git**.
 
-Git es una herramienta que nos permite realizar un control de versiones de código de nuestro proyecto por medio de líneas de comandos
+**Git** es una herramienta que nos permite realizar un control de versiones de código de nuestro proyecto por medio de líneas de comandos
 (también es posible en un entorno gráfico). Es un software libre que nos permite tener un historial completo de versiones.
 
 En resumen, **Sistema operativo, Editor de texto y Git** son herramientas fundamentales que debemos de dominar y manipular si deseamos 
